@@ -1,4 +1,4 @@
-# Navigation Meshes Overview Test <!-- omit in toc -->
+# Navigation Meshes Overview Test! <!-- omit in toc -->
 
 A JS plugin for fast pathfinding using [navigation meshes](https://en.wikipedia.org/wiki/Navigation_mesh), with optional wrappers for the Phaser v2 and Phaser v3 game engines.
 
